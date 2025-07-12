@@ -79,7 +79,7 @@ python gesture_control.py
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name].  
+Developed by [virothi karthikeya].  
 Feel free to modify or enhance this code for personal or academic use.
 
 ---
